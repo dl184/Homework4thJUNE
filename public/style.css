@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+
+}
+
+
+body {
+  background-color: #66ccff;
+  color: white;
+  font-family: sans-serif;
+
+}
+
+content {
+padding: 10px
+
+}
+
+nav {
+  width: 190px;
+  float: left;
+}
